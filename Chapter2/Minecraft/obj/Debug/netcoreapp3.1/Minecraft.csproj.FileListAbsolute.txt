@@ -1,0 +1,90 @@
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2.png
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2_specular.png
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\grass.jpg
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\leaves.png
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\stone.jpg
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\water.jpg
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\wood.jpg
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\lighting.frag
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.frag
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.vert
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.exe
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.deps.json
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.json
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.dev.json
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.pdb
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.AssemblyReference.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.AssemblyInfoInputs.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.AssemblyInfo.cs
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.CopyComplete
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.dll
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.pdb
+E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.genruntimeconfig.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2.png
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\container2_specular.png
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\grass.jpg
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\leaves.png
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\stone.jpg
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\water.jpg
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Resources\wood.jpg
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\lighting.frag
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.frag
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Shaders\shader.vert
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.exe
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.deps.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.runtimeconfig.dev.json
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.AssemblyReference.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.AssemblyInfoInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.AssemblyInfo.cs
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.csproj.CopyComplete
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.dll
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\LearnOpenTK.pdb
+C:\Users\irgia\Documents\.KULIAH\SMT 4\GRAFKOM\ProjectUAS\Chapter2\6-MultipleLights\obj\Debug\netcoreapp3.1\Minecraft.genruntimeconfig.cache
