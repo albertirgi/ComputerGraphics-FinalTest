@@ -447,11 +447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\UAS-Grafkom-Kelompok-3\\Common\\Common.csproj",
       "projectName": "LearnOpenTK.Common",
-      "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\UAS-Grafkom-Kelompok-3\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\irgia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\Common\\obj\\",
+      "outputPath": "C:\\Users\\irgia\\Documents\\.KULIAH\\SMT 4\\GRAFKOM\\ProjectUAS\\UAS-Grafkom-Kelompok-3\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irgia\\AppData\\Roaming\\NuGet\\NuGet.Config",

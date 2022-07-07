@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "519edf78-aa47-4a55-8953-5df0cd408679": {
+      "ProjectGuid": "519edf78-aa47-4a55-8953-5df0cd408679",
+      "DisplayName": "6-MultipleLights",
+      "ColorIndex": 0
+    },
+    "2cefe30b-f99d-4e62-8d33-2366a6f75f7f": {
+      "ProjectGuid": "2cefe30b-f99d-4e62-8d33-2366a6f75f7f",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

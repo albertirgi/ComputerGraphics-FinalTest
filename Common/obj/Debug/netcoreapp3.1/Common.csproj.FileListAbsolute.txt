@@ -48,3 +48,13 @@ E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Commo
 E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
 E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
 E:\SEMESTER 4\GRAFKOM\Proyek UAS\ProjectUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\PETRA\Semester 4\VSCode Project File\UAS_2\ProjectUAS\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb

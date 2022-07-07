@@ -5,10 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{2CEFE30B-F99D-4E62-8D33-2366A6F75F7F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minecraft", "Minecraft\Minecraft.csproj", "{B9FD8E6A-ED5C-489D-AFB7-378214ED92A7}"
-	ProjectSection(ProjectDependencies) = postProject
-		{2CEFE30B-F99D-4E62-8D33-2366A6F75F7F} = {2CEFE30B-F99D-4E62-8D33-2366A6F75F7F}
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minecraft", "Chapter2\6-MultipleLights\Minecraft.csproj", "{519EDF78-AA47-4A55-8953-5DF0CD408679}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{2CEFE30B-F99D-4E62-8D33-2366A6F75F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CEFE30B-F99D-4E62-8D33-2366A6F75F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CEFE30B-F99D-4E62-8D33-2366A6F75F7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9FD8E6A-ED5C-489D-AFB7-378214ED92A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9FD8E6A-ED5C-489D-AFB7-378214ED92A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9FD8E6A-ED5C-489D-AFB7-378214ED92A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9FD8E6A-ED5C-489D-AFB7-378214ED92A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519EDF78-AA47-4A55-8953-5DF0CD408679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519EDF78-AA47-4A55-8953-5DF0CD408679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519EDF78-AA47-4A55-8953-5DF0CD408679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519EDF78-AA47-4A55-8953-5DF0CD408679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
