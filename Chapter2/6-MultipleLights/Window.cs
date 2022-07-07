@@ -933,7 +933,7 @@ namespace LearnOpenTK
         private readonly Vector3[] _charPositions =
         {
             //box char thirdperson
-            new Vector3(-8f, 0f, 0f)
+            new Vector3(7f, 0f, 0f)
         };
 
         // We need the point lights' positions to draw the lamps and to get light the materials properly
