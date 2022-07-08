@@ -1,4 +1,4 @@
-# Proyek UTS Grafkom Kelompok 3
+# Proyek UAS Grafkom Kelompok 3
 
 🗿 Nama Anggota 🗿
 
