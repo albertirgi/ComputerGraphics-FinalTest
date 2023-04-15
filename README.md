@@ -12,7 +12,7 @@
 
 💩 Github 💩
 
-➡ https://github.com/albertirgi/UAS-Grafkom-Kelompok-3
+➡ https://github.com/albertirgi/ComputerGraphics-FinalTest
 
 -------------------------------------------------------------------------------
 
